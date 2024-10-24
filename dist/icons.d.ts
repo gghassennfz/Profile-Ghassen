@@ -1,0 +1,11 @@
+import React from 'react';
+declare const ICON_SATURATION: React.JSX.Element;
+declare const ICON_CONTRAST: React.JSX.Element;
+declare const ICON_BRIGHTNESS: React.JSX.Element;
+declare const ICON_FLIP: React.JSX.Element;
+declare const ICON_CROP: React.JSX.Element;
+declare const ICON_UNDO: React.JSX.Element;
+declare const ICON_SPINNER: React.JSX.Element;
+declare const ICON_COLORS: React.JSX.Element;
+declare const ICON_FILTER: React.JSX.Element;
+export { ICON_SATURATION, ICON_CONTRAST, ICON_BRIGHTNESS, ICON_FLIP, ICON_CROP, ICON_UNDO, ICON_SPINNER, ICON_FILTER, ICON_COLORS };
